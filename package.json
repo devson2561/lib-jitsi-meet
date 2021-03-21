@@ -1,6 +1,6 @@
 {
-  "name": "lib-jitsi-meet",
-  "version": "0.0.0",
+  "name": "lib-jitsi-meet-60-fps",
+  "version": "0.0.1",
   "description": "JS library for accessing Jitsi server side deployments",
   "repository": {
     "type": "git",
